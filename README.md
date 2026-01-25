@@ -20,7 +20,16 @@ Here are some ideas to get you started:
 🔧 Interested in electronics and hardware  
 🚀 Developing my skills in C++  
 📚 Always learning new things
+
+
+## 🌐 Socials
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/yourlink)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourname)
 -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Radeiaan1&layout=compact&theme=radical)
+
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Radeiaan1&show_icons=true&theme=tokyonight)
 ## 🛠 Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
