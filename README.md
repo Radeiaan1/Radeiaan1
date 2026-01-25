@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 🚀 Developing my skills in C++  
 📚 Always learning new things
 -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Radeiaan1&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Radeiaan1&show_icons=true&theme=tokyonight)
