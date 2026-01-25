@@ -22,3 +22,7 @@ Here are some ideas to get you started:
 📚 Always learning new things
 -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Radeiaan1&show_icons=true&theme=tokyonight)
+## 🛠 Tech Stack
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
