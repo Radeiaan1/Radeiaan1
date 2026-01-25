@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi, I'm Radeiaan 👋
 
 <!--
 **Radeiaan1/Radeiaan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!--🎓 Student in Technical Computer Science  
+💻 Currently working with ESP32  
+🔧 Interested in electronics and hardware  
+🚀 Developing my skills in C++  
+📚 Always learning new things
 -->
