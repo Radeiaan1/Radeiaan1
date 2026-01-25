@@ -45,7 +45,7 @@ I helped **build and deliver a spectrometer** using the **AS7265x spectral senso
 ---
 
 ## ⚡ Fun fact
-I can speak **4 languages** (2 unofficial 😉) and I love doing **different accents**.
+I can speak **4 languages** (2 unofficial) and I love doing **different accents**.
 
 ---
 
