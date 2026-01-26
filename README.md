@@ -14,6 +14,19 @@
 
 ---
 
+🎓 Student Assistant Experience
+From September 2025 to December 2025, I worked as a Student Assistant for Bart van Eijkelenburg at Hogeschool Utrecht.
+
+Responsibilities included:
+- Reviewing and evaluating first-semester student assignment submissions
+- Providing feedback on code quality, structure, and correctness
+- Supporting students during practical lessons
+- Writing and demonstrating example code by actively participating in lessons
+
+[This](https://github.com/Radeiaan1/AssisterenS1_2025) repository(might be private due to school rules) on my profile contain reviewed assignment code and instructional examples created for educational and testing purposes.
+
+---
+
 ## 🧠 General interests
 - 🔧 Electronics, embedded systems, and hardware
 - 📚 Continuously learning new technologies and concepts
