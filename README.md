@@ -1,13 +1,13 @@
 # Hi, I'm Radeiaan 👋
 
-🎓 **Technical Computer Science student** (Semester 3) at **Hogeschool Utrecht**  
+🎓 **Technical Computer Science student** (Semester 4) at **Hogeschool Utrecht**  
 💻 Embedded systems enthusiast with a focus on **C++** and **microcontrollers**  
 🚀 Always learning, always building
 
 ---
 
 ## 👨‍💻 What I’m currently doing
-- 🎓 Studying **Technical Computer Science** (Semester 3)
+- 🎓 Studying **Technical Computer Science** (Semester 4)
 - 🔌 Working with the **ESP32 microcontroller**
 - ⚙️ Developing my skills in **modern C++**
 - 🌱 Learning **CMake** and **CleanRTOS** (a wrapper around FreeRTOS)
@@ -84,6 +84,8 @@ I can speak **4 languages** (2 unofficial) and I love doing **different accents*
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 
 ---
 
