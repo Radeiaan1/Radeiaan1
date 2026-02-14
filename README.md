@@ -34,7 +34,7 @@ Responsibilities included:
 - Supporting students during practical lessons
 - Writing and demonstrating example code by actively participating in lessons
 
-[This](https://github.com/Radeiaan1/AssisterenS1_2025) repository(might be private due to school rules) on my profile contain reviewed assignment code and instructional examples created for educational and testing purposes.
+[This repository](https://github.com/Radeiaan1/AssisterenS1_2025)(might be private due to school rules) on my profile contain reviewed assignment code and instructional examples created for educational and testing purposes.
 
 ---
 
