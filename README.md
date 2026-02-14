@@ -27,7 +27,7 @@
 * 🌿 Designed and implemented a **greenhouse monitoring system** using Arduino Nano & Arduino Uno
 * ⚙️ Strengthened my programming foundation with **modern C++**
 * 🧵 Worked with **CleanRTOS** (a structured wrapper around FreeRTOS) for real-time systems
-* 
+
 ---
 
 ## 🧪 Deeper dive into project experience
