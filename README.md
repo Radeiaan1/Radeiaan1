@@ -6,15 +6,26 @@
 
 ---
 
-## 👨‍💻 What I’m currently doing
-- 🎓 Studying **Technical Computer Science** (Semester 4)
-- 🔌 Working with the **ESP32 microcontroller**
-- ⚙️ Developing my skills in **modern C++**
-- 🌱 Learning **CMake** and **CleanRTOS** (a wrapper around FreeRTOS)
+## 🚀 Experience & Projects So Far
+* 🔌 Built embedded systems using the **ESP32 microcontroller**
+* 🌿 Designed and implemented a **greenhouse monitoring system** using Arduino Nano & Arduino Uno
+* ⚙️ Strengthened my programming foundation with **modern C++**
+* 🧵 Worked with **CleanRTOS** (a structured wrapper around FreeRTOS) for real-time systems
 
 ---
 
-🎓 Student Assistant Experience
+## 📚 Current Focus & Development
+
+* 🎓 Pursuing **Technical Computer Science** (Semester 4)
+* 🤖 Exploring robotics simulation with **Gazebo**
+* 🐳 Setting up reproducible workflows using **Dev Containers**
+* 🛠 Deepening my understanding of **CMake**
+* 🏗 Studying the **C++ build process** (compilation, linking, toolchains)
+
+
+---
+
+## 🎓 Student Assistant Experience
 From September 2025 to December 2025, I worked as a Student Assistant for Bart van Eijkelenburg at Hogeschool Utrecht.
 
 Responsibilities included:
@@ -35,8 +46,6 @@ Responsibilities included:
 ---
 
 ## 📌 Things I’d like to learn next
-- 🤖 **Gazebo** (robotics & simulation – planned for Semester 4)
-- 🐳 **Dev Containers** for clean and reproducible development environments
 - 🔁 **CI/CD pipelines** for streamlined development and deployment
 - 🌐 **HTML, CSS & JavaScript** to build foundational web development skills
 
