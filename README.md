@@ -5,15 +5,6 @@
 🚀 Always learning, always building
 
 ---
-
-## 🚀 Experience & Projects So Far
-* 🔌 Built embedded systems using the **ESP32 microcontroller**
-* 🌿 Designed and implemented a **greenhouse monitoring system** using Arduino Nano & Arduino Uno
-* ⚙️ Strengthened my programming foundation with **modern C++**
-* 🧵 Worked with **CleanRTOS** (a structured wrapper around FreeRTOS) for real-time systems
-
----
-
 ## 📚 Current Focus & Development
 
 * 🎓 Pursuing **Technical Computer Science** (Semester 4)
@@ -22,6 +13,35 @@
 * 🛠 Deepening my understanding of **CMake**
 * 🏗 Studying the **C++ build process** (compilation, linking, toolchains)
 
+---
+
+## 📌 Things I’d like to learn next
+- 🔁 **CI/CD pipelines** for streamlined development and deployment
+- 🌐 **HTML, CSS & JavaScript** to build foundational web development skills
+
+---
+
+
+## 🚀 Experience & Projects So Far
+* 🔌 Built embedded systems using the **ESP32 microcontroller**
+* 🌿 Designed and implemented a **greenhouse monitoring system** using Arduino Nano & Arduino Uno
+* ⚙️ Strengthened my programming foundation with **modern C++**
+* 🧵 Worked with **CleanRTOS** (a structured wrapper around FreeRTOS) for real-time systems
+* 
+---
+
+## 🧪 Deeper dive into project experience
+I helped **build and deliver a spectrometer** using the **AS7265x spectral sensor** for **SRON (Space Research Organisation Netherlands)**.
+
+### My contributions included:
+- 🔧 Assisting with the **hardware integration**
+- 💻 Developing **software** to:
+  - Display **live spectral measurements**
+  - Create and compare measurements
+  - Store data in **CSV format**
+
+📂 Project repository (may be private due to school management):  
+👉 https://github.com/2025-TICT-TV2SE3-24-1-V/project-fiveguys/tree/main/SpectRONvanFiveGuysHU
 
 ---
 
@@ -42,27 +62,6 @@ Responsibilities included:
 - 🔧 Electronics, embedded systems, and hardware
 - 📚 Continuously learning new technologies and concepts
 - 🧩 Enjoy solving technical problems and improving code quality
-
----
-
-## 📌 Things I’d like to learn next
-- 🔁 **CI/CD pipelines** for streamlined development and deployment
-- 🌐 **HTML, CSS & JavaScript** to build foundational web development skills
-
----
-
-## 🧪 Project experience
-I helped **build and deliver a spectrometer** using the **AS7265x spectral sensor** for **SRON (Space Research Organisation Netherlands)**.
-
-### My contributions included:
-- 🔧 Assisting with the **hardware integration**
-- 💻 Developing **software** to:
-  - Display **live spectral measurements**
-  - Create and compare measurements
-  - Store data in **CSV format**
-
-📂 Project repository (may be private due to school management):  
-👉 https://github.com/2025-TICT-TV2SE3-24-1-V/project-fiveguys/tree/main/SpectRONvanFiveGuysHU
 
 ---
 
