@@ -76,7 +76,7 @@ I can speak **4 languages** (2 unofficial) and I love doing **different accents*
 **Discord username:**  
 `lightning9420`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/radeiaan-nandoe-449b743b6)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/radeiaan-nandoe)
 
 ---
 
